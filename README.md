@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **roxyash@mail.ru**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Personal web site - https://roxyash.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
