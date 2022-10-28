@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [wb_analytics](https://github.com/roxyash/wb_analytics)
 
-- 🌱 I’m currently learning **Frameworks, courses etc.**
+- 🌱 I’m currently learning **Frameworks, courses, blockchain technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/roxyash](https://github.com/roxyash)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **roxyash@mail.ru**
 
-- ⚡ Personal web site - https://roxyash.github.io/portfolio/
+- ⚡ Personal web site - [roxyash](https://roxyash.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
